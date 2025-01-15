@@ -22,7 +22,7 @@ The **Virtual Guide Project** aims to:
 3. **Assistive Technology Integration**:
    - Generates motion commands for wheelchair navigation based on user instructions.
 4. **Pipeline Architecture**:
-   - Leverages multiple AI models from Speech Lab if IIT Madras (ASR, MT, TTS, and a Chatbot) for smooth interaction.
+   - Leverages multiple AI models from the **Speech Lab** of **IIT Madras** (ASR, MT, TTS, and a Chatbot) for smooth interaction.
 
 ---
 
@@ -84,13 +84,13 @@ Below is the visual representation of the system’s architecture:
 ## Visuals and Demonstrations
 
 - **Example System Output**:
-  - ![System Interaction](media/system-demo.png)
+  - ![System Interaction](demo2.png)
 - **Integrated Wheelchair Motion**:
-  - ![Wheelchair Motion](media/wheelchair-motion.png)
+  - ![Wheelchair Motion](demo1.png)
 
 ### **Video Demonstrations**
-- [![Watch the Demo](media/video-thumbnail.png)]([https://www.youtube.com/your-video-link](https://youtu.be/Wlsy0SmorPY?si=hALWZ2q75e7fI-X_))
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-Demo-blue?logo=linkedin) [Watch Demo]([https://www.linkedin.com/posts/your-post-link1](https://www.linkedin.com/feed/update/urn:li:activity:7084514250777399296?utm_source=share&utm_medium=member_android))
+- [![Watch the Demo](thumbnail.jpg)]([https://www.youtube.com/your-video-link](https://youtu.be/Wlsy0SmorPY?si=hALWZ2q75e7fI-X_))
+- ![LinkedIn] [Watch Demo]([https://www.linkedin.com/posts/your-post-link1](https://www.linkedin.com/feed/update/urn:li:activity:7084514250777399296?utm_source=share&utm_medium=member_android))
 
 ## In the Media
 
