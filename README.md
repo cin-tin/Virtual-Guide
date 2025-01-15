@@ -84,19 +84,24 @@ Below is the visual representation of the system’s architecture:
 ## Visuals and Demonstrations
 
 - **Example System Output**:
-  - ![System Interaction](demo2.png)
+  ![System Interaction](https://github.com/cin-tin/Virtual-Guide/blob/main/demo2.jpeg)
 - **Integrated Wheelchair Motion**:
-  - ![Wheelchair Motion](demo1.png)
+   ![Wheelchair Motion](https://github.com/cin-tin/Virtual-Guide/blob/main/demo1.jpeg)
 
 ### **Video Demonstrations**
-- [![Watch the Demo](thumbnail.jpg)]([https://www.youtube.com/your-video-link](https://youtu.be/Wlsy0SmorPY?si=hALWZ2q75e7fI-X_))
-- ![LinkedIn] [Watch Demo]([https://www.linkedin.com/posts/your-post-link1](https://www.linkedin.com/feed/update/urn:li:activity:7084514250777399296?utm_source=share&utm_medium=member_android))
+  
+
+- <a href="https://youtu.be/Wlsy0SmorPY?si=hALWZ2q75e7fI-X_" target="_blank">
+  <img src="thumbnail.jpg" alt="Watch the Demo" width="500">
+</a>  
+  [Watch the Demo on YouTube](https://youtu.be/Wlsy0SmorPY?si=hALWZ2q75e7fI-X_)
 
 ## In the Media
 
 This project has received recognition in the media for its innovative approach:
 
-- Featured in **Times of India**: [Read the Article]([https://www.timesofindia.com/your-article-link](https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/india/iit-madras-is-trying-to-create-more-ranchos/amp_articleshow/101325210.cms))
+- Featured in **Times of India**:
+  [Read the Article](https://www.timesofindia.com/your-article-link](https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/india/iit-madras-is-trying-to-create-more-ranchos/amp_articleshow/101325210.cms)
 
 
 ---
