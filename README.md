@@ -4,6 +4,12 @@ This repository showcases the conceptual design and workflow of the **Virtual Gu
 
 ---
 
+<p align="center">
+  <img src="https://github.com/cin-tin/Virtual-Guide/blob/main/ezgif-6-cfebfff405.gif" alt="Demo GIF" width="800">
+</p>
+
+[Watch the Full Tutorial on Google Drive](https://drive.google.com/file/d/1zN6SPsFPX1NXCGaJRmZIzP5j5KTBM8ZP/view)
+
 ## Objective
 
 The **Virtual Guide Project** aims to:
@@ -90,7 +96,6 @@ Below is the visual representation of the system’s architecture:
 
 ### **Video Demonstrations**
   
-
 - <a href="https://youtu.be/Wlsy0SmorPY?si=hALWZ2q75e7fI-X_" target="_blank">
   <img src="thumbnail.jpg" alt="Watch the Demo" width="500">
 </a>  
