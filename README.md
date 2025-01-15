@@ -49,7 +49,7 @@ The **Virtual Guide Project** aims to:
 
 ### **System Flowchart**
 Below is the visual representation of the system’s architecture:
-![Flowchart](media/flowchart.png)
+![Flowchart](voice%20integration%20flowchart.png)
 
 ---
 
